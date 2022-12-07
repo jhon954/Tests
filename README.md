@@ -8,4 +8,3 @@ Incluye cosas xxx
 
 
 Disponible
->>>>>>> readme-mejorado
